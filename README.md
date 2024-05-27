@@ -1,13 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Leonardo Canteiro</h1>
 <h3 align="center">A Cybersecurity student from Brazil</h3>
-<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leocanteiro&label=Profile%20views&color=0e75b6&style=flat" alt="leocanteiro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leocanteiro" alt="leocanteiro" /></a> </p>
 
-- 🌱 I’m currently studying **SOC SIEM tools, Malware analysis, Virtualization...**
+- 📚 I’m currently studying **SOC SIEM tools, Malware analysis, Virtualization...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leocanteiro?tab=repositories](https://github.com/leocanteiro?tab=repositories)
 

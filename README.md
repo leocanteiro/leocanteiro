@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Leonardo Canteiro</h1>
 <h3 align="center">A Cybersecurity student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">

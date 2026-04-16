@@ -1,31 +1,40 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
-<h1 align="center">Hi 👋, I'm Leonardo Canteiro</h1>
-<h3 align="center">A Cybersecurity student from Brazil</h3>
+# Hi, I'm Leonardo
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leocanteiro&label=Profile%20views&color=0e75b6&style=flat" alt="leocanteiro" /> </p>
+**AI Automation Engineer** — n8n · Claude API · LLM Workflows
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leocanteiro" alt="leocanteiro" /></a> </p>
+Based in Brazil · Open to remote roles worldwide
 
-- 📚 I’m currently studying **SOC SIEM tools, Malware analysis, Virtualization...**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/leocanteiro?tab=repositories](https://github.com/leocanteiro?tab=repositories)
+I build production LLM workflows — the unglamorous automations that actually ship and save real hours every week. Currently running **7 workflows in production** at EnergyPetro using n8n, Claude API, and a pile of glue code.
 
-- 💬 Ask me about **Malware, Social Engineering, APT, Vulnerabilities, Mitre Att&ck, Cyber Kill Chain...**
+### What I work with daily
 
-- 📫 How to reach me **leocanteiro@gmail.com**
+**AI / LLM:** Claude API (Sonnet 4, multimodal), Perplexity Sonar, fal.ai (Nano Banana 2, Topaz), prompt engineering, agent orchestration
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-canteiro-2027302b8/](https://www.linkedin.com/in/leonardo-canteiro-2027302b8/)
+**Automation:** n8n (self-hosted and Cloud), Google Apps Script, webhooks, Zapier, Make
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-canteiro-2027302b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-canteiro-2027302b8/" height="30" width="40" /></a>
-</p>
+**Backend:** Python, FastAPI, PostgreSQL, SQL, REST, OAuth2
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Cloud:** Google Workspace APIs, Git, Linux, networking
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leocanteiro&show_icons=true&locale=en&layout=compact" alt="leocanteiro" /></p>
+### Pinned projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leocanteiro&show_icons=true&locale=en" alt="leocanteiro" /></p>
+See the pinned repositories below — open-source patterns extracted from real production work.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leocanteiro&" alt="leocanteiro" /></p>
+### About
+
+- BSc Information Security at FATEC Americana (in progress, expected 2027)
+- Based in Americana, SP, Brazil
+- **Available for remote contractor roles worldwide** — full-time, part-time, or project-based
+- English C1 (TOEIC certified), Portuguese (native)
+
+### Get in touch
+
+Email: **leocanteiro@gmail.com**
+
+LinkedIn: [leonardo-canteiro-2027302b8](https://www.linkedin.com/in/leonardo-canteiro-2027302b8/)
+
+---
+
+*Open to AI automation · LLM workflow · n8n specialist roles. Contract, freelance, or full-time.*
